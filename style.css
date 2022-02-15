@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.my-row{
+    width: 90%;
+}
+
+
+.mycss{
+    width: 30%;
+    height: 50vh;
+}
+
+.card-body h5{
+    color: #f150bf;
+}
+
+.card-body p{
+    color: #fff;
+    font-size: 14px;
+}
+
+.mycard{
+    background-color: transparent !important;
+}
+
+.row.my-card-row {
+    width: 90%;
+    margin: auto;
+}
+
+.col-md-4.card-cl {
+    width: 30%;
+}
