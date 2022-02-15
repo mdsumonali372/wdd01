@@ -26,6 +26,7 @@
 
 .mycard{
     background-color: transparent !important;
+    border: 3px solid rgba(0, 0, 0, 0.6);
 }
 
 .row.my-card-row {
